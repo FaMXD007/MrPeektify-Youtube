@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "YouTube MrBeastify",
+    "name": "YouTube MrPeek",
     "version": "1.9.0",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
+    "description": "Modify YouTube thumbnails to include MrPeek",
     "browser_action": {
         "default_popup": "settings.html"
     },
